@@ -1,0 +1,12 @@
+html, body {
+    width: 100%;
+}
+.blog {
+    width: 100%;
+    height: 900px;
+    background: yellow repeat-y;
+    color: green;
+    font-family: Cambria;
+    text-align: center;
+    font-size: 80px;
+}
